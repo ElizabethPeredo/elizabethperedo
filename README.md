@@ -1,4 +1,5 @@
-![Junior Developer]
+[Junior Developer]
+
 
 # Elizabeth Peredo
 I'm Elizabeth from Peru. 
